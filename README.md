@@ -14,10 +14,13 @@ $ ./shell_lamari_nassim
 
 3-LISTE DES FONCTIONNALITÉS:
 
--toutes les fonctionalités du premier tableaux du cahier de charge:A1,A2....A7
--B8 et B9
--pour B10 ce SELL ne gére pas les commandes multiples mais peux gérés des commandes du type $  ls < an_other_path.txt | wc > result.txt
--B11 et B12 et B15 et B19 
+-toutes les fonctionalités du premier tableaux du cahier de charge:A1,A2....A7.
+
+-B8 et B9.
+
+-pour B10 ce SELL ne gére pas les commandes multiples mais peux gérés des commandes du type $  ls < an_other_path.txt | wc > result.txt.
+
+-B11 et B12 et B15 et B19 .
 
 
 4-REMARQUES:
