@@ -18,7 +18,7 @@ $ ./shell_lamari_nassim
 
 -B8 et B9.
 
--pour B10 ce SELL ne gére pas les commandes multiples mais peux gérés des commandes du type $  ls < an_other_path.txt | wc > result.txt.
+-pour B10 ce SELL ne gére pas les commandes multiples mais peux gérés des commandes du type $  (commande1) < in_file.txt | (commande2) > out_file.txt.
 
 -B11 et B12 et B15 et B19 .
 
